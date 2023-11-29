@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
+    {
+      "id": "1.0.1",
+      "releasedAt": "1701290369180",
+      "promotions": {
+        "downloads": {
+          "generic": "https://www.dropbox.com/scl/fi/4u6x5vufwb9urg6ca9jek/TheHauntedHouseSMP-3.5.mrpack?rlkey=o9eho0v8gsf6eq897mhquj7w0&dl=0"
+        }
+      }
+    }
  
   ]
 }
